@@ -1,7 +1,7 @@
 FROM node
 
 RUN git clone \
-    https://github.com/ladyusa/cpe2.git
+    https://github.com/korrakot/cpe2.git
 
 WORKDIR /cpe2
 
